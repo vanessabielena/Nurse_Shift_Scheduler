@@ -1,0 +1,560 @@
+{
+    "2026-10-01": {
+        "denna": [
+            "Bielená s.s.",
+            "Tatarková",
+            "Lukášiková",
+            "Mikulášová",
+            "Medek",
+            "Zaťovičová s.s."
+        ],
+        "nocna": [
+            "Sakmárová s.s.",
+            "Loffler",
+            "Tomková",
+            "Adamčiková",
+            "Kubíková",
+            "Vlk s.s."
+        ]
+    },
+    "2026-10-02": {
+        "denna": [
+            "Škaritková s.s.",
+            "Bielená s.s.",
+            "Bursa",
+            "Mojžiš",
+            "Zelienková",
+            "Šáleková"
+        ],
+        "nocna": [
+            "Zaťovičová s.s.",
+            "Černá",
+            "Tomková",
+            "Koričárová s.s.",
+            "Jarabák",
+            "Tatarková"
+        ]
+    },
+    "2026-10-03": {
+        "denna": [
+            "Vlk s.s.",
+            "Loffler",
+            "Bursa",
+            "Pafčo",
+            "Adamčiková",
+            "Liščínský"
+        ],
+        "nocna": [
+            "Sakmárová s.s.",
+            "Zelienková",
+            "Mikulášová",
+            "Bielená s.s.",
+            "Medek",
+            "Sedliaková"
+        ]
+    },
+    "2026-10-04": {
+        "denna": [
+            "Škaritková s.s.",
+            "Handlovská s.s.",
+            "Jarabák",
+            "Liščínský",
+            "Lidáková",
+            "Šúthová"
+        ],
+        "nocna": [
+            "Sakmárová s.s.",
+            "Cappová",
+            "Mikulášová",
+            "Lukášiková",
+            "Medek",
+            "Múčková"
+        ]
+    },
+    "2026-10-05": {
+        "denna": [
+            "Škaritková s.s.",
+            "Vlk s.s.",
+            "Tomková",
+            "Bielená s.s.",
+            "Bursa",
+            "Zaťovičová s.s."
+        ],
+        "nocna": [
+            "Glembová s.s.",
+            "Handlovská s.s.",
+            "Valachovičová",
+            "Tatarková",
+            "Kubíková",
+            "Dulíková"
+        ]
+    },
+    "2026-10-06": {
+        "denna": [
+            "Bielená s.s.",
+            "Tomková",
+            "Oravec",
+            "Mojžiš",
+            "Cappová",
+            "Šúthová"
+        ],
+        "nocna": [
+            "Handlovská s.s.",
+            "Kubíková",
+            "Glembová s.s.",
+            "Fízeľová",
+            "Pafčo",
+            "Černá"
+        ]
+    },
+    "2026-10-07": {
+        "denna": [
+            "Vlk s.s.",
+            "Múčková",
+            "Lukášiková",
+            "Bursa",
+            "Lidáková",
+            "Zelienková"
+        ],
+        "nocna": [
+            "Koričárová s.s.",
+            "Bielená s.s.",
+            "Fízeľová",
+            "Mojžiš",
+            "Medek",
+            "Adamčiková"
+        ]
+    },
+    "2026-10-08": {
+        "denna": [
+            "Glembová s.s.",
+            "Zelienková",
+            "Lidáková",
+            "Tomková",
+            "Loffler",
+            "Dulíková"
+        ],
+        "nocna": [
+            "Sakmárová s.s.",
+            "Černá",
+            "Pafčo",
+            "Handlovská s.s.",
+            "Škaritková s.s.",
+            "Jarabák"
+        ]
+    },
+    "2026-10-09": {
+        "denna": [
+            "Glembová s.s.",
+            "Šúthová",
+            "Mikulášová",
+            "Tomková",
+            "Cappová",
+            "Oravec"
+        ],
+        "nocna": [
+            "Škaritková s.s.",
+            "Zaťovičová s.s.",
+            "Koričárová s.s.",
+            "Loffler",
+            "Dulíková",
+            "Múčková"
+        ]
+    },
+    "2026-10-10": {
+        "denna": [
+            "Handlovská s.s.",
+            "Šáleková",
+            "Pafčo",
+            "Tatarková",
+            "Fízeľová",
+            "Bursa"
+        ],
+        "nocna": [
+            "Glembová s.s.",
+            "Lidáková",
+            "Šalagová",
+            "Bielená s.s.",
+            "Cappová",
+            "Adamčiková"
+        ]
+    },
+    "2026-10-11": {
+        "denna": [
+            "Handlovská s.s.",
+            "Fízeľová",
+            "Šáleková",
+            "Tatarková",
+            "Tomková",
+            "Koričárová s.s."
+        ],
+        "nocna": [
+            "Škaritková s.s.",
+            "Glembová s.s.",
+            "Bursa",
+            "Sedliaková",
+            "Kubíková",
+            "Zelienková"
+        ]
+    },
+    "2026-10-12": {
+        "denna": [
+            "Sakmárová s.s.",
+            "Oravec",
+            "Liščínský",
+            "Šúthová",
+            "Dulíková",
+            "Medek"
+        ],
+        "nocna": [
+            "Vlk s.s.",
+            "Cappová",
+            "Lukášiková",
+            "Černá",
+            "Adamčiková",
+            "Fízeľová"
+        ]
+    },
+    "2026-10-13": {
+        "denna": [
+            "Bielená s.s.",
+            "Mikulášová",
+            "Múčková",
+            "Oravec",
+            "Liščínský",
+            "Glembová s.s."
+        ],
+        "nocna": [
+            "Škaritková s.s.",
+            "Černá",
+            "Sakmárová s.s.",
+            "Šáleková",
+            "Loffler",
+            "Sedliaková"
+        ]
+    },
+    "2026-10-14": {
+        "denna": [
+            "Bielená s.s.",
+            "Valachovičová",
+            "Šalagová",
+            "Lidáková",
+            "Cappová",
+            "Šúthová"
+        ],
+        "nocna": [
+            "Zaťovičová s.s.",
+            "Jarabák",
+            "Adamčiková",
+            "Handlovská s.s.",
+            "Mikulášová",
+            "Sakmárová s.s."
+        ]
+    },
+    "2026-10-15": {
+        "denna": [
+            "Vlk s.s.",
+            "Múčková",
+            "Pafčo",
+            "Černá",
+            "Dulíková",
+            "Medek"
+        ],
+        "nocna": [
+            "Zaťovičová s.s.",
+            "Adamčiková",
+            "Kubíková",
+            "Jarabák",
+            "Loffler",
+            "Fízeľová"
+        ]
+    },
+    "2026-10-16": {
+        "denna": [
+            "Sakmárová s.s.",
+            "Sedliaková",
+            "Lidáková",
+            "Tomková",
+            "Múčková",
+            "Glembová s.s."
+        ],
+        "nocna": [
+            "Koričárová s.s.",
+            "Škaritková s.s.",
+            "Šáleková",
+            "Cappová",
+            "Dulíková",
+            "Mikulášová"
+        ]
+    },
+    "2026-10-17": {
+        "denna": [
+            "Glembová s.s.",
+            "Valachovičová",
+            "Sakmárová s.s.",
+            "Tomková",
+            "Zaťovičová s.s.",
+            "Sedliaková"
+        ],
+        "nocna": [
+            "Bielená s.s.",
+            "Fízeľová",
+            "Zelienková",
+            "Oravec",
+            "Handlovská s.s.",
+            "Šúthová"
+        ]
+    },
+    "2026-10-18": {
+        "denna": [
+            "Škaritková s.s.",
+            "Jarabák",
+            "Tatarková",
+            "Mojžiš",
+            "Múčková",
+            "Pafčo"
+        ],
+        "nocna": [
+            "Vlk s.s.",
+            "Medek",
+            "Glembová s.s.",
+            "Bursa",
+            "Bielená s.s.",
+            "Černá"
+        ]
+    },
+    "2026-10-19": {
+        "denna": [
+            "Handlovská s.s.",
+            "Sedliaková",
+            "Šúthová",
+            "Mikulášová",
+            "Kubíková",
+            "Adamčiková"
+        ],
+        "nocna": [
+            "Sakmárová s.s.",
+            "Liščínský",
+            "Múčková",
+            "Tomková",
+            "Vlk s.s.",
+            "Glembová s.s."
+        ]
+    },
+    "2026-10-20": {
+        "denna": [
+            "Koričárová s.s.",
+            "Bursa",
+            "Kubíková",
+            "Tatarková",
+            "Mikulášová",
+            "Pafčo"
+        ],
+        "nocna": [
+            "Bielená s.s.",
+            "Lidáková",
+            "Zelienková",
+            "Oravec",
+            "Mojžiš",
+            "Jarabák"
+        ]
+    },
+    "2026-10-21": {
+        "denna": [
+            "Glembová s.s.",
+            "Múčková",
+            "Lukášiková",
+            "Valachovičová",
+            "Adamčiková",
+            "Liščínský"
+        ],
+        "nocna": [
+            "Koričárová s.s.",
+            "Pafčo",
+            "Vlk s.s.",
+            "Škaritková s.s.",
+            "Sakmárová s.s.",
+            "Lidáková"
+        ]
+    },
+    "2026-10-22": {
+        "denna": [
+            "Zaťovičová s.s.",
+            "Liščínský",
+            "Sedliaková",
+            "Fízeľová",
+            "Glembová s.s.",
+            "Medek"
+        ],
+        "nocna": [
+            "Handlovská s.s.",
+            "Vlk s.s.",
+            "Oravec",
+            "Múčková",
+            "Sakmárová s.s.",
+            "Valachovičová"
+        ]
+    },
+    "2026-10-23": {
+        "denna": [
+            "Škaritková s.s.",
+            "Zelienková",
+            "Dulíková",
+            "Medek",
+            "Šúthová",
+            "Bielená s.s."
+        ],
+        "nocna": [
+            "Koričárová s.s.",
+            "Černá",
+            "Bursa",
+            "Zaťovičová s.s.",
+            "Jarabák",
+            "Handlovská s.s."
+        ]
+    },
+    "2026-10-24": {
+        "denna": [
+            "Glembová s.s.",
+            "Šalagová",
+            "Zelienková",
+            "Vlk s.s.",
+            "Cappová",
+            "Bielená s.s."
+        ],
+        "nocna": [
+            "Sakmárová s.s.",
+            "Valachovičová",
+            "Oravec",
+            "Šúthová",
+            "Liščínský",
+            "Medek"
+        ]
+    },
+    "2026-10-25": {
+        "denna": [
+            "Zaťovičová s.s.",
+            "Dulíková",
+            "Šáleková",
+            "Šalagová",
+            "Múčková",
+            "Mikulášová"
+        ],
+        "nocna": [
+            "Bielená s.s.",
+            "Cappová",
+            "Lidáková",
+            "Liščínský",
+            "Fízeľová",
+            "Adamčiková"
+        ]
+    },
+    "2026-10-26": {
+        "denna": [
+            "Handlovská s.s.",
+            "Dulíková",
+            "Zaťovičová s.s.",
+            "Loffler",
+            "Oravec",
+            "Valachovičová"
+        ],
+        "nocna": [
+            "Koričárová s.s.",
+            "Glembová s.s.",
+            "Kubíková",
+            "Fízeľová",
+            "Sakmárová s.s.",
+            "Sedliaková"
+        ]
+    },
+    "2026-10-27": {
+        "denna": [
+            "Handlovská s.s.",
+            "Škaritková s.s.",
+            "Šalagová",
+            "Zelienková",
+            "Šáleková",
+            "Adamčiková"
+        ],
+        "nocna": [
+            "Sakmárová s.s.",
+            "Bursa",
+            "Mikulášová",
+            "Medek",
+            "Lukášiková",
+            "Mojžiš"
+        ]
+    },
+    "2026-10-28": {
+        "denna": [
+            "Zaťovičová s.s.",
+            "Tomková",
+            "Černá",
+            "Valachovičová",
+            "Šúthová",
+            "Sedliaková"
+        ],
+        "nocna": [
+            "Vlk s.s.",
+            "Zelienková",
+            "Adamčiková",
+            "Škaritková s.s.",
+            "Cappová",
+            "Dulíková"
+        ]
+    },
+    "2026-10-29": {
+        "denna": [
+            "Koričárová s.s.",
+            "Tatarková",
+            "Jarabák",
+            "Šalagová",
+            "Fízeľová",
+            "Múčková"
+        ],
+        "nocna": [
+            "Zaťovičová s.s.",
+            "Sedliaková",
+            "Tomková",
+            "Šáleková",
+            "Bursa",
+            "Lidáková"
+        ]
+    },
+    "2026-10-30": {
+        "denna": [
+            "Škaritková s.s.",
+            "Handlovská s.s.",
+            "Šúthová",
+            "Jarabák",
+            "Lukášiková",
+            "Fízeľová"
+        ],
+        "nocna": [
+            "Zaťovičová s.s.",
+            "Zelienková",
+            "Tatarková",
+            "Cappová",
+            "Mojžiš",
+            "Šalagová"
+        ]
+    },
+    "2026-10-31": {
+        "denna": [
+            "Koričárová s.s.",
+            "Kubíková",
+            "Adamčiková",
+            "Liščínský",
+            "Šáleková",
+            "Vlk s.s."
+        ],
+        "nocna": [
+            "Handlovská s.s.",
+            "Sedliaková",
+            "Mojžiš",
+            "Mikulášová",
+            "Zelienková",
+            "Fízeľová"
+        ]
+    }
+}
