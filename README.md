@@ -25,6 +25,13 @@ The program automatically generates a valid schedule and exports it into both JS
 
 ---
 
+## Screenshots of the excel output
+
+<img src="sheet1.png" width="800">
+<img src="sheet2.png" width="800">
+
+---
+
 ## Scheduling Rules
 
 The scheduler enforces several constraints:
